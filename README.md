@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iEggplant
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Python and SQL
+- 🌱 I’m currently learning Python, R and SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me at calvinnggm1998@gmail.com
 
